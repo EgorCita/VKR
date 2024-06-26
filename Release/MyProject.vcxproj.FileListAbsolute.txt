@@ -1,0 +1,3 @@
+D:\Projects\ImportantProject\MyProject\Release\MyProject.exe
+D:\Projects\ImportantProject\MyProjectTest\Release\MyProject.exe
+D:\Projects\ImportantProject\MyProjectTest1\Release\MyProject.exe
